@@ -1,4 +1,4 @@
-# CapstoneProject
+# Capstone Project
 Humber College - Capstone Project 2019
 
 # 
